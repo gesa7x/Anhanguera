@@ -1,0 +1,55 @@
+#principal {
+    text-align: center;
+    width: 1000px;
+    border: 1px #00B050 solid;
+    border-radius: 25px;
+    margin: 0px auto;
+    padding-left: 20px;
+    background-color: white;
+}
+
+body {
+    background-color: #E8E8E8;
+}
+
+
+#logo {
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+nav {
+    border: 1px #00B050 solid;
+    text-align: left;
+    padding-left: 10px;
+    border-radius: 25px;
+    width: 400px;
+}
+
+h1 {
+    color: #005700;
+    font-size: 40px;
+}
+
+h2 {
+    color: #92D050;
+    font-size: 30px;
+}
+
+#estrutura {
+    text-align: left;
+}
+
+ul li {
+    list-style-type: square;
+
+}
+
+.lista {
+    text-align: left;
+}
+
+img {
+    //border:2px solid #aada77;
+}
